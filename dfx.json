@@ -6,7 +6,7 @@
     },
     "Nuvon_Finance_frontend": {
       "dependencies": [
-        "Nuvon_Finance"
+        "Nuvon_Finance_backend"
       ],
       "source": [
         "src/Nuvon_Finance_frontend/dist"
